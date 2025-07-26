@@ -31,18 +31,18 @@ Planned questions for EDA:
 3. What are the **most common genres**?
 4. Which directors have the **most movies** in the top 1000?
 5. Is there any **correlation between runtime and rating**?
-6. Which actors appear the most often?
+6. What are the **most-grossing movies**?
 
 ---
 
 ## 🧠 Summary of Insights
 
 1. The top rated movies by IMDB rating
-   - The Shawshank Redemption	9.3
-   - The Godfather	9.2
-   - 12 Angry Men	9.0
-   - The Dark Knight	9.0
-   - The Godfather: Part II	9.0
+   - The Shawshank Redemption	(9.3)
+   - The Godfather	(9.2)
+   - 12 Angry Men	(9.0)
+   - The Dark Knight	(9.0)
+   - The Godfather: Part II	(9.0)
 2. Average rating by 5 years
    - 1920-1924: 8.12
    - 1925-1929: 8.12
@@ -65,7 +65,20 @@ Planned questions for EDA:
    - 2010-2014: 7.91
    - 2015-2019: 7.93
    - 2020: 8.13
-
+3. The top 3 most common genres
+   - Drama        724
+   - Comedy       233
+   - Crime        209
+4. Top 3 directors
+   - Alfred Hitchcock     14
+   - Steven Spielberg     13
+   - Hayao Miyazaki       11
+5. Based on the correlation calculation, the Pearson correlation between Runtime and IMDB_Rating is 0.24, indicating a weak positive correlation.
+   The scatterplot also shows that films with slightly longer runtimes tend to have higher ratings, but this relationship is not very strong.
+6. Top 3 highest-grossing films
+   - Star Wars: Episode VII - The Force Awakens	$ 936662225
+   - Avengers: Endgame	                        $ 858373000
+   - Avatar	                                    $ 760507625
 
 ---
 
@@ -88,5 +101,5 @@ Planned questions for EDA:
 
 ## 🙋‍♂️ Author
 
-- Faris | Beginner AI Enthusiast 🤖  
+- Faris SM | Beginner AI Enthusiast 🤖  
 - Road to AI - Week 1 Project 🚀
