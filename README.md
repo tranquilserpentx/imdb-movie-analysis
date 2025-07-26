@@ -75,7 +75,7 @@ Planned questions for EDA:
    - Hayao Miyazaki       11
 5. Based on the correlation calculation, the Pearson correlation between Runtime and IMDB_Rating is 0.24, indicating a weak positive correlation.
    The scatterplot also shows that films with slightly longer runtimes tend to have higher ratings, but this relationship is not very strong.
-6. Top 3 highest-grossing films
+6. Top 3 highest-grossing movies
    - Star Wars: Episode VII - The Force Awakens	$ 936662225
    - Avengers: Endgame	                        $ 858373000
    - Avatar	                                    $ 760507625
